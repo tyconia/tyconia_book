@@ -3,7 +3,7 @@
 
 # Introduction
 
-![Tyconia hero text](/title_0.png  "Optional title")
+![Tyconia hero text](./title_0.png  "Optional title")
 
 First of all, thank you for finding a niche use for tyconia.
 
