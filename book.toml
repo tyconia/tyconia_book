@@ -1,0 +1,7 @@
+[book]
+authors = ["yorqat"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tyconia modding guide book"
+
